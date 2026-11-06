@@ -1,2 +1,3 @@
 # SuperOsuska
-subproject for supervysivka.sk
+subproject for supervysivka.sk 
+first iteration
